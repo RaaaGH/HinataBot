@@ -9,7 +9,7 @@
 <a href="#"><img title="Hinata" src="https://img.shields.io/badge/Hinata-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/AyGemuy"><img title="AyGemuy" src="https://img.shields.io/badge/Author-AyGemuy-red.svg?style=for-the-badge&logo=github"></a>
+<a href="www.github.com/RaaaGH"><img title="RaaaGH" src="https://img.shields.io/badge/Author-AyGemuy-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 </p>
@@ -29,7 +29,7 @@
 [`railway.app`](https://railway.app/new/github)
 
 #### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AyGemuy/Hinata)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RaaaGH/HinataBotk)
 
 Edit the required value in [`config.js`](https://github.com/AyGemuy/Hinata/blob/master/config.js)
 
